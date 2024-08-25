@@ -27,7 +27,7 @@ To deploy this project,
 ```
 2. On the command prompt go to the folder where you have saved the Pix2Pix and Cyclegan trained models.
 
-3. Replace both the generator paths for the model.
+3. Replace both the generator paths for the model with your trained model paths.
 
 3. Then run the following
 

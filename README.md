@@ -11,7 +11,7 @@ This report discusses how the Pix2Pix Generative Adversarial Network (GAN) is us
 
 ## Tech-Stack
 
-- Streamlit for frontend.
+- Streamlit for front end.
 - Pix2Pix Gan for training the model.
 - Cycle Gan for training the model.
 
@@ -20,16 +20,16 @@ This report discusses how the Pix2Pix Generative Adversarial Network (GAN) is us
 
 To deploy this project,
 
-1. Open command prompt and run the following command
+1. Open the command prompt and run the following command
 
 ```bash
   pip install -r requirements.txt
 ```
-2. On command prompt go to the folder where you have saved the Pix2Pix_Cycle.py
+2. On the command prompt go to the folder where you have saved the Pix2Pix and Cyclegan trained models.
 
 3. Replace both the generator paths for the model.
 
 3. Then run the following
 
 ```bash
-  Streamlit run Pix2Pix_Cycle.py
+  Streamlit run name_of_your_file.py

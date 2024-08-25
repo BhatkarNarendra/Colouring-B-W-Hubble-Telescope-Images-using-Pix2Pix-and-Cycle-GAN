@@ -25,9 +25,7 @@ To deploy this project,
 ```bash
   pip install -r requirements.txt
 ```
-2. On the command prompt go to the folder where you have saved the Pix2Pix and Cyclegan trained models.
-
-3. Replace both the generator paths for the model with your trained model paths.
+2. Open Final_code_for_streamlit.py and replace both the generator paths for the model with your trained model paths.
 
 3. Then run the following
 
